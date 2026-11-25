@@ -8,9 +8,7 @@
 - Python Certification (November 2026)
 
 ## Certificate Files
-
-- [AWS_Cloud_Certification.pdf]
-  (https://github.com/jaiminipateldata-23/My- Certificates/edit/main/README.md#:~:text=AWSCloudecertificate.pdf)
+[AWS Cloud Certification](https://github.com/jaiminipateldata-23/My-Certificates/blob/main/AWSCloudecertificate.pdf)
 - Generative_AI_vs_Agentic_AI.pdf
 - PowerBI_Certification.pdf
 - Python_Certification.pdf

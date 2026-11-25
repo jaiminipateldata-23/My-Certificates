@@ -1,2 +1,15 @@
-# My-Certificates
- Certifications  - AWS Cloud Certification (ThinkCloudly) - Generative AI vs Agentic AI (ThinkCloudly) - Power BI Certification (ThinkCloudly) - Python Certification (ThinkCloudly)
+# Professional Certifications
+
+## ThinkCloudly Certifications
+
+- AWS Cloud Certification (May 2026)
+- Generative AI vs Agentic AI (March 2026)
+- Power BI Certification (November 2026)
+- Python Certification (November 2026)
+
+## Certificate Files
+
+- AWS_Cloud_Certification.pdf
+- Generative_AI_vs_Agentic_AI.pdf
+- PowerBI_Certification.pdf
+- Python_Certification.pdf
